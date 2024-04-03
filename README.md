@@ -1,4 +1,5 @@
 ### Hi there , this is Amir 👋
+
 <p>
    ⌨️ A Mern-Stack-Developer from Karaj
 </p>
@@ -9,9 +10,17 @@
   🥇 for more than 5 years, I have been struggling with the code and I don't think I intend to give up anytime soon.
 </p>
 <p>
-  
+<b>
+     <i>in addition : </i>
+</b>
+   <br />
+   <br />
+   ❤️ --<img src="https://skillicons.dev/icons?i=laravel" />-- ❤️
 </p>
-
+<hr />
+<h2>
+   My Family 💙 :
+</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,next,redux" />
@@ -37,4 +46,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp" />
   </a>
 </p>
-
+<br />
+<br /> 
