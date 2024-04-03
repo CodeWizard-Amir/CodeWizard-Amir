@@ -7,7 +7,7 @@
    👽 a fanatic JavaScript programmer 😄
 </p>
 <p>
-  🥇 for more than 5 years, I have been struggling with the code and I don't think I intend to give up anytime soon.
+  🥇 for more than 5 years, I have been struggling with the code and I don't think so intend to give up anytime soon.
 </p>
 <p>
 <b>
